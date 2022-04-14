@@ -21,7 +21,7 @@ python3 grepABK.py Kaistraße 1
 
 ## Demonstration
 
-![Screenshot displaying a demonstration of the executed script](screenshot.PNG)
+![Screenshot displaying a demonstration of the executed script](screenshot.png)
 
 ## Help
 
